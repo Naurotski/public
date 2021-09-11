@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /main.js
+Disallow: /src/store/stripe.js
+Sitemap: https://metamorfosi.eu/sitemap.xml

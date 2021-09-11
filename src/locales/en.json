@@ -1,0 +1,39 @@
+{
+  "shared": {
+    "open": "open",
+    "buy": "buy",
+    "close": "close",
+    "price": "Price",
+    "back": "back",
+    "continue": "continue"
+  },
+  "gallery": {
+    "name": "Nadzeya Naurotskaya",
+    "gallery": "Gallery",
+    "galleryN": "Nadzeya Naurotskaya Gallery",
+    "text1": "Artist, photographer, psychologist and art therapist, author of the project «Metamorfosi». In the gallery you can find and purchase Nadezda's graphic and pictorial works.",
+    "text2": "Art for me is not only the way to show the world in which I live, but also deep therapy. To enable people to see themselves deeper through the portraits that I create. To see familiar cities in a new way and to find places of power, to get a resource and a source of energy together with the picture. Have the opportunity to immerse yourself in the picture, live the injury and come out updated. ",
+    "text3": "“Paintings for her is what she wants to do the most ... «Arno» is a glimpse at dusk that captivates... Like all of her works, always shrouded in gloomy light... But she also has ardent realistic portraits, as in perfect series \"Pisan\" (\"Liliana\", \"Martina\"...) ",
+    "text4": "Plinio Perilli, art critic, Rome, Italy.",
+    "description": "In our virtual gallery you will find a \"permanent exhibition\" - paintings and graphic works of Nadezhda Navrotskaya",
+    "landscape": "Landscapes",
+    "cityLandscapes": "City Landscapes",
+    "portraits": "Portraits",
+    "stillLifes": "Still lifes",
+    "different": "Other",
+    "artObjects": "Art Objects",
+    "photo": "Photo",
+    "changeRubric": "Change rubric",
+    "priceOriginal": "Cost of the original painting",
+    "buyPrint": "Buy print on canvas",
+    "print": "Print on canvas",
+    "textDelivery": "Delivery and insurance is at the buyer's expense",
+    "textDelivery1": "The deadline for sending the painting outside the European Union is 2-3 weeks",
+    "textStripe": "To process the payment you will be redirected to the Stripe platform page",
+    "textThank": "Thank you for your payment!",
+    "textThank1": "You have acquired a picture of Nadezhda Navrotskaya",
+    "textThank2": "For delivery, we will contact you by email within 24 hours.",
+    "galleryNNDescription": "The artist always paints his self-portrait"
+
+  }
+}
